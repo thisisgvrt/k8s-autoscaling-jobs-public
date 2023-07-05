@@ -1,0 +1,3 @@
+eks-infra/.terraform
+eks-infra/terraform.tfstate
+eks-infra/terraform.tfstate*

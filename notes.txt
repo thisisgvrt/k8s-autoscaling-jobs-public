@@ -1,0 +1,7 @@
+TODO:
+    - monitoring persistence
+    - logs capture and indexing
+    - namespace seperation
+    - api skew across az
+    - scale up and scale down params
+    - grafana persistence
